@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{e1f8146a-ee5a-fa5d-34c3-bba700ae8d84}</ProjectGuid>
+    <ProjectGuid>{8afbfa6b-1839-9671-83b1-50fa44e9064e}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -308,43 +308,43 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.21f1-x86_64\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.testtools.codecoverage@1.2.5\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.testtools.codecoverage@1.2.5\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>F:\UnityProj\PhotonVR\Assets\Photon\PhotonLibs\WebSocket\websocket-sharp.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Assets\Photon\PhotonLibs\WebSocket\websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.collab-proxy@2.3.1\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>F:\UnityProj\PhotonVR\Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>F:\UnityProj\PhotonVR\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.21f1-x86_64\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -731,331 +731,331 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.21f1-x86_64\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Dictation.Runtime">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\VoiceSDK.Dictation.Runtime.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\VoiceSDK.Dictation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.Common">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Common.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Common.dll</HintPath>
     </Reference>
     <Reference Include="AssistantVoiceCommandCommon">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\AssistantVoiceCommandCommon.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\AssistantVoiceCommandCommon.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
     </Reference>
     <Reference Include="meta.xr.mrutilitykit.editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\meta.xr.mrutilitykit.editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\meta.xr.mrutilitykit.editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Tags">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.Editor.Tags.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.Editor.Tags.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Conduit">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.WitAi.Conduit.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.WitAi.Conduit.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Telemetry">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\VoiceSDK.Telemetry.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\VoiceSDK.Telemetry.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Composer.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Wit.Composer.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Wit.Composer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Dictation.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\VoiceSDK.Dictation.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\VoiceSDK.Dictation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.UserInterface">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.Editor.UserInterface.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.Editor.UserInterface.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Dictation">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Wit.Dictation.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Wit.Dictation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="MetaXrSimulator.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\MetaXrSimulator.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\MetaXrSimulator.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="AssistantVoiceCommandCommon.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\AssistantVoiceCommandCommon.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\AssistantVoiceCommandCommon.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.InterfaceSupport">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Interaction.InterfaceSupport.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Interaction.InterfaceSupport.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR.Scripts.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Interaction.OVR.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Interaction.OVR.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.Other">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Other.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Other.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Conduit.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.WitAi.Conduit.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.WitAi.Conduit.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Interaction.OVR.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Interaction.OVR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Platform.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Platform.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Samples.WitShapes">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Voice.Samples.WitShapes.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Voice.Samples.WitShapes.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Oculus.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Interaction.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Interaction.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Callbacks">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.Editor.Callbacks.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.Editor.Callbacks.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.VR.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.VR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.WitAi.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.WitAi.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.VSDKHub.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Voice.VSDKHub.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Voice.VSDKHub.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.WitAi.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.WitAi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Haptics">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Haptics.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Haptics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Audio.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.Audio.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.Audio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\VoiceSDK.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\VoiceSDK.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Composer">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Wit.Composer.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Wit.Composer.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.TTS.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.WitAi.TTS.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.WitAi.TTS.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="meta.xr.mrutilitykit">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\meta.xr.mrutilitykit.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\meta.xr.mrutilitykit.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Editor.Composer">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\VoiceSDK.Editor.Composer.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\VoiceSDK.Editor.Composer.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.StatusMenu">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.Editor.StatusMenu.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.Editor.StatusMenu.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Lib">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.WitAi.Lib.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.WitAi.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Runtime.Composer">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\VoiceSDK.Runtime.Composer.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\VoiceSDK.Runtime.Composer.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Hub.Runtime">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Voice.Hub.Runtime.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Voice.Hub.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Platform.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Hub.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Voice.Hub.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Voice.Hub.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.TTS">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.WitAi.TTS.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.WitAi.TTS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Oculus">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.XR.Oculus.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.XR.Oculus.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.WebGL">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.WebGL.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.VoiceSDK.Mic.WebGL.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Interaction.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Interaction.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Updater">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Audio">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.Audio.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.Audio.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.BuildingBlocks.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAI.Lib.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.WitAI.Lib.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.WitAI.Lib.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Samples.WitResponseDebugger">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Voice.Samples.WitResponseDebugger.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Voice.Samples.WitResponseDebugger.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Haptics.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.Haptics.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.Haptics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.GuidedSetups.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.XR.GuidedSetups.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.XR.GuidedSetups.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Oculus.VR.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Oculus.VR.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Dictation.Editor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\Meta.Wit.Dictation.Editor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\Meta.Wit.Dictation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Runtime">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\VoiceSDK.Runtime.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\VoiceSDK.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="AssistantCoreSDKRuntime">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\AssistantCoreSDKRuntime.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\AssistantCoreSDKRuntime.dll</HintPath>
     </Reference>
     <Reference Include="AssistantCoreSDKEditor">
-      <HintPath>F:\UnityProj\PhotonVR\Library\ScriptAssemblies\AssistantCoreSDKEditor.dll</HintPath>
+      <HintPath>F:\Gits\VRGame\VRGame\Library\ScriptAssemblies\AssistantCoreSDKEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{6f6e3532-60fe-28b9-8be2-e5d1b6136c4b}</Project>
+      <Project>{25a4d88b-f66c-6f6f-17bd-e4ce3c151f08}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
-      <Project>{2f670d18-4335-c0e2-a1ba-6ccc29fd2c65}</Project>
+      <Project>{e7c73b74-3f3c-0b94-a708-5fbb8407fc23}</Project>
       <Name>PhotonUnityNetworking.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
-      <Project>{9f3471d4-5e85-6315-31f6-08b0ce008f44}</Project>
+      <Project>{b6e3d72f-4af6-e842-a9c4-e81b4cf1ae0b}</Project>
       <Name>PhotonUnityNetworking.Utilities.PhotonPlayer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PunDemos.DemoSlotcarEditor.csproj">
-      <Project>{f7a6f1cf-f2fa-2556-a5ff-02c9ff9d9553}</Project>
+      <Project>{25e77c60-70a0-7c0c-7eef-c1a67b92d3d2}</Project>
       <Name>PunDemos.DemoSlotcarEditor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
-      <Project>{72bf25e1-dd34-1364-e76a-921c266f6ca0}</Project>
+      <Project>{c52652f8-8460-81ed-9ec8-f95fe3c3204e}</Project>
       <Name>PhotonChat</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{15b73fb4-ab10-1f81-8db1-f9395d4afa0e}</Project>
+      <Project>{7024e0cc-7f26-d057-e9fd-8e0d6bd92bf5}</Project>
       <Name>PhotonUnityNetworking</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.Culling.Editor.csproj">
-      <Project>{8ed461ea-6211-2fc7-4695-7c33c84b0d27}</Project>
+      <Project>{53a0e129-ac50-8b05-ad5c-0c33f0a8726f}</Project>
       <Name>PhotonUnityNetworking.Utilities.Culling.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Demos.csproj">
-      <Project>{5ec49960-f4ba-9a7e-e1aa-3cbf3d11e45a}</Project>
+      <Project>{f038c3fe-6f56-d021-2278-364df9bbe9a3}</Project>
       <Name>PhotonUnityNetworking.Demos</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
-      <Project>{6af00167-ed18-0d5d-defc-a26ddccfb189}</Project>
+      <Project>{e37d0080-0519-0704-e090-3c513c3f77c2}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{e2ebf709-cfa6-4d98-a7a6-6f481d768065}</Project>
+      <Project>{aaea5421-6f34-8737-ce3b-c47fe322bb57}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
     <ProjectReference Include="PunDemos.DemoHubEditor.csproj">
-      <Project>{a64beab6-a721-8bfa-dab3-fc62c58ba94b}</Project>
+      <Project>{c3296c4d-4379-330f-490b-843af284cb78}</Project>
       <Name>PunDemos.DemoHubEditor</Name>
     </ProjectReference>
   </ItemGroup>
