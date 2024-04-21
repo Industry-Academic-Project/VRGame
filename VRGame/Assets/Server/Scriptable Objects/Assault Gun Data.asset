@@ -16,4 +16,4 @@ MonoBehaviour:
   maxExtraAmmo: 120
   timeToReload: 3
   rpm: 650
-  damage: 34
+  damage: 24

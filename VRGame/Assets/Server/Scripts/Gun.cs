@@ -13,7 +13,8 @@ namespace Server
         {
             if (pView.IsMine == false)
             {
-                Destroy(this);
+                // Destroy(this);
+                return;
             }
             InitGun();
         }
@@ -22,10 +23,17 @@ namespace Server
         private void Update()
         {
             if (pView.IsMine == false) return;
-            
+
+            // 발사 (LMB)
             if (Input.GetKeyDown(KeyCode.Mouse0))
             {
                 TryFire();
+            }
+
+            // 재장전 (R)
+            if (Input.GetKeyDown(KeyCode.R))
+            {
+                TryReload();
             }
         }
         
@@ -56,7 +64,10 @@ namespace Server
         #region IGun Implements
         public void TryFire()
         {
+            // 자기 총인가?
             if (pView.IsMine == false) return;
+            
+            // 총알이 많은가?
             if (CurrentAmmoInMag <= 0) return;
             if (IsFiring) return;
             
@@ -66,15 +77,19 @@ namespace Server
         private void Fire()
         {
             if (pView.IsMine == false) return;
-            var bulletInstance = Instantiate(Bullet, firePos.position, firePos.rotation);
-            bulletInstance.GetComponent<Rigidbody>().AddForce(bulletInstance.transform.forward * 10000f);
+            var bulletInstance = PhotonNetwork.Instantiate("Bullet", firePos.position, firePos.rotation);
+            bulletInstance.GetComponent<Bullet>().Damage = Damage;
+            bulletInstance.GetComponent<Rigidbody>().AddForce(bulletInstance.transform.forward * 2000f);
             CurrentAmmoInMag -= 1;
         }
         
-        public void Reload()
+        public void TryReload()
         {
             if (pView.IsMine == false) return;
             if (IsReloading) return;
+
+            if (CurrentAmmoInMag == MaxExtraAmmo || MaxExtraAmmo == 0) return;
+            
             StartCoroutine(ReloadCoroutine());
         }
         

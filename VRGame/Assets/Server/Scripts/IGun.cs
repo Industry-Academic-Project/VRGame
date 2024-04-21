@@ -8,7 +8,7 @@ namespace Server
         bool IsReloading { get; set; }
         
         /// <summary> 장전 실행 </summary>
-        void Reload();
+        void TryReload();
         
         /// <summary> 발사 딜레이를 위한 프로퍼티 </summary>
         bool IsFiring { get; set; }

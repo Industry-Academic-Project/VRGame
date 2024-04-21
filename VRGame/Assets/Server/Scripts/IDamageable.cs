@@ -11,7 +11,7 @@ namespace Server
         
         /// <summary> 이 오브젝트가 데미지를 받게 함. (Health -= amount) </summary>
         /// <param name="amount"> 현재 체력에서 닳게 할 양 </param>
-        void GetDamage(float amount);
+        // void GetDamage(float amount);
         
         /// <summary> 죽은 후 실행하는 메서드 </summary>
         void OnDeath();
