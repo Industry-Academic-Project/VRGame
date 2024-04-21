@@ -11,6 +11,10 @@ namespace Server
         // Start is called before the first frame update
         private void Start()
         {
+            if (pView.IsMine == false)
+            {
+                Destroy(this);
+            }
             InitGun();
         }
 

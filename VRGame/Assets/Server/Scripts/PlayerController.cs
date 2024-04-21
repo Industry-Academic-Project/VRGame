@@ -20,23 +20,35 @@ namespace Server
         #region Unity Event Functions
         private void Awake()
         {
+            _characterMaterial = GetComponent<MeshRenderer>().material;
+            
+            // 자기 자신만 초록색이고 나머지는 빨간색으로 보인다.
+            _characterMaterial.color = pView.IsMine ? Color.green : Color.red;
+            
+            if (pView.IsMine == false)
+            {
+                // 남의 스크립트 파괴 (모든 컴퓨터에서 자기 것의 스크립트만 유지됨)
+                Destroy(GetComponent<AudioListener>());
+                Destroy(GetComponent<Rigidbody>());
+                Destroy(GetComponentInChildren<Camera>());
+                Destroy(this);
+            }
+
+            // Camera.main.enabled = false;
             _rigidbody = GetComponent<Rigidbody>();
         }
         
         private void Start()
         {
-            _characterMaterial = GetComponent<MeshRenderer>().material;
-            
-            // 자기 자신만 초록색이고 나머지는 빨간색으로 보인다.
-            _characterMaterial.color = pView.IsMine ? Color.green : Color.red;
+           
         }
 
         private void Update()
         {
-            if (pView.IsMine == false)
-            {
-                return;
-            }
+            // if (pView.IsMine == false)
+            // {
+            //     return;
+            // }
             
             // 점프 (스페이스바)
             if (Input.GetKeyDown(KeyCode.Space) && _isJumping == false)
@@ -48,10 +60,10 @@ namespace Server
         // 리지드바디 다루는 것은 FixedUpdate에서 실행해야 움직이는 것에 끊김이 덜하다.
         private void FixedUpdate()
         {
-            if (pView.IsMine == false)
-            {
-                return;
-            }
+            // if (pView.IsMine == false)
+            // {
+            //     return;
+            // }
 
             // 움직임 실행
             var horizontalMovement = Input.GetAxisRaw("Horizontal");
@@ -79,7 +91,7 @@ namespace Server
         {
             // 콜리전에서 떨어질 때 점프를 못하게 되는지 체크
             // 플레이어라면 점프 비활성화를 막는다
-            if (pView.IsMine == false || other.gameObject.CompareTag("Player"))
+            if (/*pView.IsMine == false ||*/ other.gameObject.CompareTag("Player"))
             {
                 return;
             }
@@ -119,7 +131,7 @@ namespace Server
             set
             {
                 // 본인만 데미지 입음
-                if (pView.IsMine == false) return;
+                //if (pView.IsMine == false) return;
                 
                 _health = value;
                 if (_health > 0f) return;
@@ -131,20 +143,20 @@ namespace Server
         }
         public void GetDamage(float amount)
         {
-            if (pView.IsMine == false)
-            {
-                return;
-            }
+            // if (pView.IsMine == false)
+            // {
+            //     return;
+            // }
             
             Health -= amount;
         }
 
         public void OnDeath()
         {
-            if (pView.IsMine == false)
-            {
-                return;
-            }
+            // if (pView.IsMine == false)
+            // {
+            //     return;
+            // }
             // 죽을 때 실행
         }
         #endregion
