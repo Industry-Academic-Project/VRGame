@@ -1,4 +1,5 @@
 ﻿#define Remote
+//#define CursorLock
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -18,6 +19,9 @@ public class CamRotate : MonoBehaviour
         angle.y = -Camera.main.transform.eulerAngles.x;
         angle.x = Camera.main.transform.eulerAngles.y;
         angle.z = Camera.main.transform.eulerAngles.z;
+        #if CursorLock
+        Cursor.lockState = CursorLockMode.Locked;
+#endif
     }
 
     void Update()
