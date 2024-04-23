@@ -41,6 +41,9 @@ MonoBehaviour:
   - RespawnSpaceship
   - Jump
   - JumpRPC
+  - DestroyRPC
+  - GetDamage
+  - SetDamageRPC
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 1
