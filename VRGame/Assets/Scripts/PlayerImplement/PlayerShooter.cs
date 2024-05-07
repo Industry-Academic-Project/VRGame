@@ -15,10 +15,11 @@ public class PlayerShooter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger,OVRInput.Controller.RTouch)) // 오른쪽 버튼
+        
+        if(OVRInput.GetDown(OVRInput.Button.SecondaryIndexTrigger)) // 오른쪽 버튼
         {
             //총알 발사 입력
-            //Instantiate(bulletPrefab, shootingPosition, Quaternion.identity);
+            Instantiate(bulletPrefab, shootingPosition.position, shootingPosition.rotation);
         }
     }
 }

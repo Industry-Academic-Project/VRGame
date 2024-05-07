@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="68db2c30-f356-4a3f-9cfb-44bf0619a5fe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials/body_color_map.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials/body_color_map.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerImplement/OVRCameraRig_Implement.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerImplement/OVRCameraRig_Implement.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerImplement/bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerImplement/bullet.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/PlayerImplement.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/PlayerImplement.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerImplement/PlayerShooter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerImplement/PlayerShooter.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,7 @@
   <component name="GitLabMergeRequestsSettings">{}</component>
   <component name="GithubPullRequestsUISettings">{}</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerImplement/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.meta.xr.sdk.core@64.0.0/Editor/OVRProjectSetup/Tasks/Processors/OVRConfigurationTaskUpdaterSummary.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.meta.xr.sdk.core@64.0.0/Scripts/OVRInput.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/OneDrive/문서/카카오톡 받은 파일/ARAVRInput (1).cs" root0="SKIP_HIGHLIGHTING" />
@@ -128,6 +128,7 @@
       <workItem from="1713871496178" duration="784000" />
       <workItem from="1714455353365" duration="2761000" />
       <workItem from="1714522894332" duration="6003000" />
+      <workItem from="1715078286675" duration="4258000" />
     </task>
     <servers />
   </component>
